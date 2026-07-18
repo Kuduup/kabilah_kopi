@@ -183,7 +183,7 @@ nav{
   aspect-ratio:4/5; border-radius:20px;
   background:
     linear-gradient(160deg, rgba(43,27,18,.35), rgba(43,27,18,.5)),
-    url('images/kabilah-coffe.jpg') center/cover no-repeat,
+    url('images/Logo-kabilah-kopi.jpg') center/cover no-repeat,
     radial-gradient(circle at 30% 20%, rgba(201,166,107,.5), transparent 55%),
     linear-gradient(160deg, var(--coffee) 0%, var(--coffee-dark) 100%);
   position:relative; overflow:hidden;
